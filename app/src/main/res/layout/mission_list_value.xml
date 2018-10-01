@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="150dp"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="140dp"
+        android:layout_height="250dp"
+        android:layout_weight="0.24"
+        android:layout_margin="10dp"
+        android:background="@drawable/mission_item_back">
+
+        <RelativeLayout
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/relativeLayout"
+            android:layout_marginTop="20dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/M_list_value_icon"
+                android:src="@drawable/weapon_icon_1"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="+ 0"
+                android:id="@+id/M_list_value_plus"
+                android:layout_alignBottom="@+id/M_list_value_icon"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:textStyle="bold"
+                android:background="#85000000"
+                android:textColor="#ffffff"
+                android:textSize="10dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:id="@+id/imageView10"
+            android:src="@drawable/missioninfo_stateline"
+            android:layout_below="@+id/linearLayout"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:id="@+id/linearLayout2"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dp">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:background="#ffffcc5f"
+                android:id="@+id/M_list_value_Madelayout">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="제작 하기"
+                    android:id="@+id/textView18"
+                    android:textStyle="bold"
+                    android:textSize="10dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="- 1000000 G"
+                    android:id="@+id/M_list_value_MadeG"
+                    android:textStyle="bold"
+                    android:textSize="7dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:gravity="center"
+            android:id="@+id/linearLayout"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="false"
+            android:layout_below="@+id/relativeLayout">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="아이템 이름"
+                android:id="@+id/textView6"
+                android:textColor="#ffffff"
+                android:textSize="6dp" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="몽둥이"
+                    android:id="@+id/M_list_value_name"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:textSize="9dp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#a8000000"
+            android:gravity="center"
+            android:id="@+id/M_list_value_buyNo"
+            android:visibility="invisible">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/imageView9"
+                android:src="@drawable/item_lock" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="해당 제작법을 구매하셔야합니다"
+                android:id="@+id/textView10"
+                android:textColor="#ffffff"
+                android:textSize="8dp"
+                android:layout_marginTop="5dp" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

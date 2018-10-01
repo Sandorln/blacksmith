@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_15.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_15.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_5.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_5.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\missioninfo_stateline.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\missioninfo_stateline.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_20.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_20.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_17.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_17.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npcicon_1.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npcicon_1.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_lock.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\item_lock.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_3.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_3.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_6.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_6.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_2.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_2.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anvil_back.PNG",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\anvil_back.PNG"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skills_icon.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skills_icon.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npc_textback.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npc_textback.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npcicon_2.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npcicon_2.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smithy_up_icon.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\smithy_up_icon.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npc_4.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npc_4.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_16.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_16.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_13.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_13.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus_icon.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\plus_icon.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_4.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_4.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_7.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_7.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npcicon_4.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npcicon_4.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yes_btn.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\yes_btn.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_15.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_15.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_18.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_18.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_2.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_2.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_6.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_6.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sword_icon.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\sword_icon.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_0.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_0.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_8.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_8.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npc_3.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npc_3.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itemname_back.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\itemname_back.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\good_text.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\good_text.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_5.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_5.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_20.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_20.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_10.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_10.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npcicon_3.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npcicon_3.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_16.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_16.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_19.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_19.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mission_item_back.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\mission_item_back.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_13.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_13.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upline_bar.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\upline_bar.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mission_back.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\mission_back.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npcicon_0.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npcicon_0.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_11.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_11.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_black_black.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\item_black_black.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_14.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_14.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gold.PNG",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\gold.PNG"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goldbox_back.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\goldbox_back.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_17.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_17.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_9.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_9.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hit_effect_0.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\hit_effect_0.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dungeon_icon.PNG",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\dungeon_icon.PNG"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npc_0.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npc_0.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_0.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_0.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anvil_bg.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\anvil_bg.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_back.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\home_back.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hit_effect_1.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\hit_effect_1.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_8.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_8.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npc_1.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npc_1.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_10.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_10.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_12.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_12.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quest_icon.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\quest_icon.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_1.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_1.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_18.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_18.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touchlv_up_icon.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\touchlv_up_icon.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upgrade_effect.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\upgrade_effect.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_btn.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\no_btn.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_character.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\player_character.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_14.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_14.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_back.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\item_back.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_19.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_19.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_3.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_3.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_back.jpg",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\splash_back.jpg"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_9.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_9.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goldpocket_icon.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\goldpocket_icon.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_icon.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\player_icon.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\great_text.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\great_text.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weapon_icon_12.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\weapon_icon_12.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_4.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_4.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_11.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_11.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_1.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_1.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\npc_2.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\npc_2.png"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\android\\BlackSmith\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\android\\BlackSmith\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skill_icon_7.png",
+        "source": "C:\\android\\BlackSmith\\app\\src\\main\\res\\drawable\\skill_icon_7.png"
+    }
+]

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:weightSum="10"
+    tools:context="blacksmith.com.sandorln.blacksmith.MainActivity">
+
+    <RelativeLayout
+        android:layout_weight="7"
+        android:id="@+id/M_Main"
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/home_back">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="70dp"
+            android:layout_marginRight="70dp"
+            android:src="@drawable/player_character" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:id="@+id/M_Anvil"
+            android:src="@drawable/anvil_back"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/imageView2"
+            android:layout_toStartOf="@+id/imageView2" />
+
+        <ImageView
+            android:id="@+id/M_NPC"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/npc_0"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="100dp"
+            android:visibility="invisible" />
+
+        <RelativeLayout
+            android:id="@+id/M_MissionClear_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:visibility="invisible">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:orientation="horizontal"
+                android:visibility="visible"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:id="@+id/imageView6"
+                    android:src="@drawable/gold" />
+
+                <TextView
+                    android:textStyle="bold"
+                    android:id="@+id/M_MissionClear_gold"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="New Text"
+                    android:textSize="20dp"
+                    android:textColor="#ffcc00" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/M_Made_layout"
+            android:visibility="invisible"
+            android:layout_above="@+id/imageView2"
+            android:layout_alignLeft="@+id/M_Anvil"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView12"
+                android:layout_centerInParent="true"
+                android:src="@drawable/item_black_black" />
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/M_Made_layout_weapon"
+                android:layout_centerInParent="true"
+                android:src="@drawable/weapon_icon_1" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView4"
+                android:layout_centerInParent="true"
+                android:src="@drawable/item_back" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="+999"
+                android:id="@+id/M_Made_name"
+                android:background="#a6000000"
+                android:textColor="#ffffff"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="5dp"
+                android:textSize="7dp"
+                android:paddingRight="2dp"
+                android:paddingLeft="2dp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:weightSum="5"
+            android:layout_marginTop="7dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:weightSum="4"
+                android:gravity="center"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp">
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:background="@drawable/goldbox_back"
+                android:gravity="center_vertical|right"
+                android:weightSum="5"
+                android:layout_weight="3"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="13dp"
+                    android:id="@+id/imageView14"
+                    android:src="@drawable/gold"
+                    android:layout_weight="2" />
+
+                <TextView
+                    android:id="@+id/M_Gold"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_toLeftOf="@+id/textView"
+                    android:layout_toStartOf="@+id/textView"
+                    android:text="GOLD"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#ffd041"
+                    android:layout_weight="1"
+                    android:gravity="right" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="14dp"
+                    android:id="@+id/M_Gold_plus"
+                    android:layout_weight="2"
+                    android:src="@drawable/plus_icon" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_above="@+id/imageView2"
+            android:layout_alignLeft="@+id/M_Anvil"
+            android:layout_alignStart="@+id/M_Anvil">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/M_Upgrade_text"
+                android:src="@drawable/great_text"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <TabHost
+        android:id="@+id/tabHost"
+        android:layout_width="match_parent"
+        android:layout_height="330dp"
+        android:layout_weight="3">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/M_Mission"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" />
+
+                <LinearLayout
+                    android:id="@+id/M_Shop"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" />
+
+                <LinearLayout
+                    android:id="@+id/M_Character"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" />
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+    <com.google.android.gms.ads.AdView
+        android:background="#ff000000"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id" />
+</LinearLayout>

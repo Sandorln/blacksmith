@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#ff000000">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/Minfo_NPC_Layout">
+
+        <ImageView
+            android:layout_marginLeft="5dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/M_NPC_icon"
+            android:src="@drawable/npcicon_0"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:background="@drawable/npc_textback"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/M_NPC_text"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_toRightOf="@+id/M_NPC_icon"
+            android:layout_toEndOf="@+id/M_NPC_icon" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:id="@+id/imageView7"
+        android:src="@drawable/missioninfo_stateline" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/Minfo_info_Layout">
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/mission_back" />
+
+        <RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="구매 신청"
+                android:id="@+id/textView11"
+                android:textStyle="bold"
+                android:textSize="8dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="100000 Gold"
+                android:id="@+id/M_Sell_Gold"
+                android:textStyle="bold"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="보수"
+                android:id="@+id/textView14"
+                android:textSize="8dp"
+                android:layout_above="@+id/M_Sell_Gold"
+                android:layout_centerHorizontal="true" />
+
+            <RelativeLayout
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/relativeLayout3"
+                android:layout_below="@+id/textView11"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="5dp">
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/M_Sell_purpose_image"
+                android:src="@drawable/weapon_icon_0"
+                android:layout_above="@+id/textView14"
+                android:layout_alignLeft="@+id/relativeLayout3"
+                android:layout_alignStart="@+id/relativeLayout3"
+                android:layout_marginBottom="5dp" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:id="@+id/btn_No"
+            android:src="@drawable/no_btn" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/imageView5"
+            android:src="@drawable/player_icon" />
+
+        <ImageView
+            android:layout_marginLeft="5dp"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:id="@+id/btn_Ok"
+            android:src="@drawable/yes_btn" />
+
+    </LinearLayout>
+</LinearLayout>
